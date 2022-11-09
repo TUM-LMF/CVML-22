@@ -1,0 +1,24 @@
+name: CVML
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - opencv
+  - pandas
+  - ipython
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - spyder
+  - notebook
+  - scikit-image
+  - tabulate
+  - scikit-spatial
+  - jupyterlab
+  - voila
+  - ca-certificates
+  - certifi
+  - openssl
+  - ipympl
+  - jupyterlab-link-share
+prefix: /home/koerner/anaconda3/envs/CVML
